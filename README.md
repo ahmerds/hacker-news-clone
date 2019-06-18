@@ -11,3 +11,5 @@ This repo also shows a practical use-case for Javascript Closures.
 
 Clone repo, use live server(or any variant or similar software) to run. If not available, open the index.html file 
 in your browser of choice.
+
+Preview: https://alhajiash.github.io/hacker-news-clone/
